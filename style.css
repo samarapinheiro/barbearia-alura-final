@@ -1,14 +1,10 @@
-body {
-    
-}
+body {}
 
 #banner {
     width: 100%;
 }
 
-.principal{
-
-}
+.principal {}
 
 h1 {
     text-align: center
@@ -31,7 +27,7 @@ em strong {
 }
 
 .beneficios {
-   background: #FFFFFF;
+    background: #FFFFFF;
 }
 
 h2 {
