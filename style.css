@@ -1,10 +1,14 @@
-body {}
+body {
+
+}
 
 #banner {
     width: 100%;
 }
 
-.principal {}
+.principal {
+    background: #CCCCCC
+}
 
 h1 {
     text-align: center
@@ -32,6 +36,9 @@ em strong {
 
 h2 {
     text-align: center;
+}
+ul {
+    display: inline-block;
 }
 
 .imagembeneficios {
